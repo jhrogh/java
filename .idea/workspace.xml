@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8cf4b72-f9fa-40e4-b058-ab2e58586366" name="Changes" comment="" />
+    <list default="true" id="b8cf4b72-f9fa-40e4-b058-ab2e58586366" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch3/RectangleOopMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch1/MovieReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch1/MovieReviewMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch1/ProductOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch1/ProductOrderMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch2/ProductOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch2/ProductOrderMain2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch2/ProductOrderMain3.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -39,6 +51,21 @@
                   <RecentBranch>
                     <option name="branchName" value="main" />
                     <option name="lastUsedInstant" value="1717487845" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1717489094" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="java-basic" />
+                    <option name="lastUsedInstant" value="1717489093" />
                   </RecentBranch>
                 </list>
               </option>
@@ -69,6 +96,7 @@
     "Application.Main.executor": "Run",
     "Application.Method2.executor": "Run",
     "Application.MovieReviewMain.executor": "Run",
+    "Application.MovieReviewMain1.executor": "Run",
     "Application.ProductOrderMain.executor": "Run",
     "Application.ProductOrderMain2.executor": "Run",
     "Application.ProductOrderMain3.executor": "Run",
@@ -76,16 +104,16 @@
     "Application.SpeakerMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "java-basic",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/jh/Desktop/JAVA/java-basic",
+    "last_opened_file_path": "/Users/jh/Desktop/practice/java/java-basic",
     "onboarding.tips.debug.path": "/Users/jh/Desktop/practice/java-basic/src/Main.java",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RectangleOopMain">
-    <configuration name="MovieReviewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch1.MovieReviewMain" />
+  <component name="RunManager" selected="Application.ProductOrderMain3">
+    <configuration name="MovieReviewMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch1.MovieReviewMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RectangleOopMain" />
         <item itemvalue="Application.ProductOrderMain3" />
         <item itemvalue="Application.ProductOrderMain2" />
         <item itemvalue="Application.ProductOrderMain" />
-        <item itemvalue="Application.MovieReviewMain" />
+        <item itemvalue="Application.MovieReviewMain1" />
+        <item itemvalue="Application.RectangleOopMain" />
       </list>
     </recent_temporary>
   </component>
